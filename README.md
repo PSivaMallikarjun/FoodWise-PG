@@ -69,3 +69,13 @@ To get this application running in real-time on the web, you can deploy it for f
       ```
 
 After deployment is complete, Firebase will give you a public URL (e.g., [`https://`](https://9000-firebase-studio-1752312375173.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev/login)). You can now visit this URL to use your application live!
+These snapshots of the mobile app
+
+<img width="1869" height="938" alt="Screenshot 2025-07-12 151228" src="https://github.com/user-attachments/assets/ca7b839f-7ab8-4220-976d-ac721c9f8f62" />
+<img width="1898" height="966" alt="Screenshot 2025-07-12 160406" src="https://github.com/user-attachments/assets/61993880-3e4b-4c26-801f-f93797e18cda" />
+<img width="1153" height="832" alt="Screenshot 2025-07-12 152057" src="https://github.com/user-attachments/assets/f83505c0-36c4-42e0-8445-66284cef153d" />
+<img width="1899" height="970" alt="Screenshot 2025-07-12 151303" src="https://github.com/user-attachments/assets/86ddb969-24d5-4ed8-a035-5b251bf3ce6f" />
+<img width="1318" height="914" alt="Screenshot 2025-07-12 161737" src="https://github.com/user-attachments/assets/83a68404-3294-4675-95f3-5b50dc14d772" />
+<img width="1305" height="965" alt="Screenshot 2025-07-12 161713" src="https://github.com/user-attachments/assets/af8ce6d2-0858-4108-9046-cbe60b39ce71" />
+<img width="1911" height="579" alt="Screenshot 2025-07-12 161011" src="https://github.com/user-attachments/assets/dd904f0e-3bfb-4c2e-8c3b-437902c15903" />
+<img width="1910" height="975" alt="Screenshot 2025-07-12 161002" src="https://github.com/user-attachments/assets/6fbca435-4366-4f61-94ef-2835c17a2ddf" />
