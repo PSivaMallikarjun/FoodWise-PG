@@ -79,6 +79,6 @@ These snapshots of the mobile app
 <img width="1305" height="965" alt="Screenshot 2025-07-12 161713" src="https://github.com/user-attachments/assets/af8ce6d2-0858-4108-9046-cbe60b39ce71" />
 <img width="1911" height="579" alt="Screenshot 2025-07-12 161011" src="https://github.com/user-attachments/assets/dd904f0e-3bfb-4c2e-8c3b-437902c15903" />
 <img width="1910" height="975" alt="Screenshot 2025-07-12 161002" src="https://github.com/user-attachments/assets/6fbca435-4366-4f61-94ef-2835c17a2ddf" />
-![WhatsApp Image 2025-07-12 at 20 05 29_445656c0](https://github.com/user-attachments/assets/5408b4f5-e6bf-476b-9dea-f79e9b48660d)
+
 
 
