@@ -68,4 +68,4 @@ To get this application running in real-time on the web, you can deploy it for f
       npm run deploy
       ```
 
-After deployment is complete, Firebase will give you a public URL (e.g., `https://your-app-name.web.app`). You can now visit this URL to use your application live!
+After deployment is complete, Firebase will give you a public URL (e.g., [`https://`](https://9000-firebase-studio-1752312375173.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev/login)). You can now visit this URL to use your application live!
